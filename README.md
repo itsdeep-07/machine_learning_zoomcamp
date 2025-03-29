@@ -1,6 +1,6 @@
 # machine_learning_zoomcamp
 
-Hello World
+First I am going with linear regression :<) 
 
-## summer 
+this is me doing updation 
  
